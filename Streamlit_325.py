@@ -8,7 +8,6 @@ import streamlit as st
 import plotly.graph_objects as go
 import plotly.figure_factory as ff
 from plotly.offline import init_notebook_mode, iplot
-init_notebook_mode()
 import plotly.express as px
 st.title("MSBA 325 Assignment 2")
 st.markdown("Kassem Hajjoul")
